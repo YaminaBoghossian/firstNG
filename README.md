@@ -1,0 +1,2 @@
+# firstNG
+Beginning with Angular 
